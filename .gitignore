@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-*/dataset_anime
+dataset_anime
 # C extensions
 *.so
 
